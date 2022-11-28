@@ -8,4 +8,6 @@
 <br>
 
 <p align="center">Loved the project? Please checkout my <a href="https://www.linkedin.com/in/divyam-solanki-7a9a12190/">LinkedIN</a> profile. </p>
+
+<img src="https://github.com/solankidivyam/theMUSICAPP/blob/main/MusicApp.jpg" alt="Sc" width="500"/>
 <br>
